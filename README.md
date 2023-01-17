@@ -1,2 +1,2 @@
 # Pet-Supply-Store-Analysis
- This repository contains a project completed for the DataCamp Data Analyst Certification Exam using Python. . The deliverable of the project is a report on the workspace.
+This repository contains a project completed for the DataCamp Data Analyst Certification Exam using Python. The project includes tasks such as data extraction, joining, aggregation, cleaning, and preparation for analysis, data quality assessment and validation, calculation of metrics, and creation of data visualizations to showcase relationships between features. Additionally, statistical concepts relevant to hypothesis testing and experimentation are also covered. The deliverable of the project is a report on the workspace.
